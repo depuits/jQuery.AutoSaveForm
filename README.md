@@ -2,7 +2,7 @@
 jQuery plugin for auto saving forms while editing. To use simply add the following line to your ready function:
 
 ```javascript
-$('form').areYouSure();
+$('form').autoSaveForm();
 ```
 
 [Demo](https://depuits.github.io/jQuery.AutoSaveForm)
