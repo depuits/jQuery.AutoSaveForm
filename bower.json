@@ -1,0 +1,25 @@
+{
+  "name": "jquery.auto-save-form",
+  "homepage": "https://github.com/depuits/jQuery.AutoSaveForm",
+  "authors": [
+    "Depuits <colmanjoeri@msn.com>"
+  ],
+  "description": "jQuery plugin for auto saving forms while editing.",
+  "main": "jquery.auto-save-form.js",
+  "keywords": [
+    "form",
+    "field",
+    "change",
+    "save",
+    "auto",
+    "auto-save"
+  ],
+  "license": "Apache-2.0",
+  "ignore": [
+    "**/.*",
+    "demo"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7"
+  }
+}
