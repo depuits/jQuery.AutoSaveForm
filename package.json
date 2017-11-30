@@ -1,0 +1,30 @@
+{
+  "name": "jquery.auto-save-form",
+  "version": "1.0.0",
+  "description": "jQuery plugin for auto saving forms while editing.",
+  "main": "jQuery.auto-save-form.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/depuits/jQuery.AutoSaveForm.git"
+  },
+  "keywords": [
+    "form",
+    "field",
+    "change",
+    "save",
+    "auto",
+    "auto-save"
+  ],
+  "author": "Depuits",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/depuits/jQuery.AutoSaveForm/issues"
+  },
+  "homepage": "https://github.com/depuits/jQuery.AutoSaveForm#readme",
+  "dependencies": {
+    "jquery": ">=1.7"
+  }
+}
